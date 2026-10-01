@@ -106,7 +106,7 @@ _{aka jotika-meaw · github.com/jotika-meaw}_
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -146,7 +146,7 @@ _{aka jotika-meaw · github.com/jotika-meaw}_
 ## 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
