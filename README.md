@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpeg" alt="Jotika Das — CSE Student, Web Developer & Researcher" width="100%" />
+</p>
+
 # Hi 👋, I'm Jotika Das
 
 _{aka jotika-meaw · github.com/jotika-meaw}_
