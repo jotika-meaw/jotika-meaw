@@ -1,115 +1,91 @@
+<!--- banner --->
 <p align="center">
   <img src="./banner.jpeg" alt="Jotika Das — CSE Student, Web Developer & Researcher" width="100%" />
 </p>
 
-# Hi 👋, I'm Jotika Das
+<br/>
 
-_{aka jotika-meaw · github.com/jotika-meaw}_
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Jotika Das</h1></summary>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=CSE+Student+%406th+Semester+%28USTC%29;Web+Developer+%26+Researcher;ML+%7C+NLP+%7C+Computer+Vision+Enthusiast;React+%2B+Next.js+%2B+TypeScript+Explorer" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-- 👋 I'm **@jotika-meaw** — a **Web Developer** and CSE student from Chattogram, Bangladesh.
+<br/>
+
+<!--- about --->
+- 👋 Hi, I’m **[@jotika-meaw](https://github.com/jotika-meaw)** — a **Web Developer** and CSE student from Chattogram, Bangladesh.
 - 🎓 Currently in my **6th Semester of Computer Science & Engineering** at **University of Science & Technology Chittagong (USTC)**.
-- 📚 Currently focusing on **IELTS, Machine Learning models, and Web Development**.
-- 💻 Building projects using **Python, C, C++, JavaScript, TypeScript, React, Next.js, and modern web technologies**.
-- 🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision, and intelligent web applications**.
-- 🌱 Continuously learning and improving my **Web Development, AI/ML, and problem-solving skills**.
+- 🖥️ Currently working with **Python, JavaScript, TypeScript, React, Next.js and Tailwind CSS**.
+- 🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision and intelligent web applications**.
+- 🛠️ Currently learning **Machine Learning models, IELTS and advanced Web Development**.
+- 💬 Ask me about **Python, React, Next.js, ML basics and Web Development**.
+- 🌐 Explore My Work **[Repositories](https://github.com/jotika-meaw?tab=repositories)** and connect on **[LinkedIn](https://www.linkedin.com/in/jotikadas)**.
+- 📫 Feel free to reach me out at **[jotikadas57@gmail.com](mailto:jotikadas57@gmail.com)**.
 
----
+<br/>
 
-## 📍 CURRENT LOCATION
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-**Jamal Khan, Chattogram, Bangladesh**
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/jotikadas" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://github.com/jotika-meaw" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40" /></a>
+    <a href="mailto:jotikadas57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-jotikadas57-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
+  </p>
+</div>
 
-## 📧 CONTACT
+<br/>
 
-**Email:** [jotikadas57@gmail.com](mailto:jotikadas57@gmail.com)
+<!--- technology --->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
----
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,html,css)](https://github.com/jotika-meaw)
 
-## 🌐 FOLLOW ME ON SOCIALS
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui)](https://github.com/jotika-meaw)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jotikadas">
-    <img src="https://img.shields.io/badge/LinkedIn-Jotika%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/jotika-meaw">
-    <img src="https://img.shields.io/badge/GitHub-jotika--meaw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:jotikadas57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jotikadas57-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express,redux)](https://github.com/jotika-meaw)
 
----
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma)](https://github.com/jotika-meaw)
 
-## 🛠️ TECHNOLOGY STACK
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,html,css" alt="Programming Languages" />
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Web Development" />
-</p>
-
-### 🤖 Machine Learning & AI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Machine Learning and AI" />
-</p>
+### Machine Learning & AI:
+[![Machine Learning & AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://github.com/jotika-meaw)
 
 **Libraries & Tools:** Scikit-learn · XGBoost · Hugging Face Transformers · SHAP
 
-### 🗄️ Database & Backend
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github)](https://github.com/jotika-meaw)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" alt="Database and Backend" />
-</p>
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/jotika-meaw)
 
-### 🚀 Deployment & Platforms
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://github.com/jotika-meaw)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github" alt="Deployment and Platforms" />
-</p>
+<br/>
 
-### 🧰 Tools & Technologies
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Tools and Technologies" />
-</p>
+### GitHub Contributions:
+![Snake Grid](https://raw.githubusercontent.com/jotika-meaw/jotika-meaw/output/github-snake.svg)
 
----
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=jotika-meaw&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotika-meaw&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
 
-## 📊 GITHUB STATISTICS & ANALYSIS
+### Streak & Activity:
+| <a><img align="center" src="https://streak-stats.demolab.com?user=jotika-meaw&theme=tokyonight&hide_border=true" /></a> | <a><img align="center" src="https://github-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotika-meaw&show_icons=true&theme=tokyonight&hide_border=true" alt="Jotika Das GitHub Statistics" />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotika-meaw&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jotika-meaw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
+<br/>
 
 ## 🚀 FEATURED PROJECTS
 
@@ -141,21 +117,16 @@ _{aka jotika-meaw · github.com/jotika-meaw}_
 
 🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)
 
----
+<br/>
 
-## 🐍 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+<!--- random quote --->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
 
 ---
 
-## 💬 RANDOM DEV QUOTE
-
-> "First, solve the problem. Then, write the code."
-
----
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jotika-meaw&label=Profile%20views&color=0e75b6&style=flat" alt="jotika-meaw" /> </p>
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
