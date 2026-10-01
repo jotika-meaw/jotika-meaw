@@ -1,81 +1,178 @@
-<!--- BANNER — replace this comment with your banner when ready:
-<img src="https://github.com/jotika-meaw/jotika-meaw/raw/main/banner.png" alt="Jotika Das banner" width="100%">
---->
+# 👋 Hi, I'm Jotika Das
 
-<!--- TITLE --->
-<div align="center">
-  <h1>Hi 👋, I'm Jotika Das</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=CSE+Undergrad+%40+6th+Semester;ML+%26+NLP+Enthusiast;Aspiring+CS+Researcher;Python+%26+Web+Developer" alt="Typing SVG" /></a>
-  <br/>
-  <sub><b>aka jotika-meaw</b> · github.com/jotika-meaw</sub>
-</div>
+### 💻 Web Developer | CSE Student | ML & AI Enthusiast
 
-<br/>
+<p align="center">
+  <img src="./profile-banner.png" alt="Jotika Das Profile Banner" width="100%" />
+</p>
 
-<!--- ABOUT --->
-- 👋 I'm **[@jotika-meaw](https://github.com/jotika-meaw)** — a CSE student and aspiring researcher from Chittagong, Bangladesh.
-- 🎓 Currently in my **6th Semester of Computer Science & Engineering**.
-- 🎯 Target: Fully funded **Master's abroad in CS (Machine Learning / NLP / Deep Learning)**.
-- 📚 Currently preparing for **IELTS** & working on ML models & Web development projects.
-- 🐍 Building projects in **Python**, **C++**, **JavaScript**, and data analysis tools.
-- 💡 Interested in natural language processing, computer vision, and intelligent web applications.
-
-<br/>
-
-<!--- SOCIALS --->
-## 🌐 FOLLOW ME ON SOCIALS
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jotikadas/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" alt="LinkedIn" /></a>
-  <a href="https://github.com/jotika-meaw" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" width="50" alt="GitHub" /></a>
-</div>
-
-<br/>
-
-<!--- TECH STACK --->
-## 🛠️ TECHNOLOGY STACK
-
-### Languages & ML:
-[![Languages](https://skillicons.dev/icons?i=python,cpp,c,js,html,css)](https://github.com/jotika-meaw)
-
-### Frameworks & Libraries:
-[![Frameworks](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nodejs,express)](https://github.com/jotika-meaw)
-
-### Tools & Platforms:
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman)](https://github.com/jotika-meaw)
-
-<br/>
-
-<!--- STATISTICS --->
-## 📊 GITHUB STATISTICS & ANALYSIS
-
-### Contribution Snake:
-![Snake Grid](https://raw.githubusercontent.com/jotika-meaw/jotika-meaw/output/snake.svg)
-
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=jotika-meaw&show_icons=true&theme=radical&hide_border=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotika-meaw&theme=radical&hide_border=true&layout=compact" /></a> |
-| ------------- | ------------- |
-
-| <a><img align="center" src="https://streak-stats.demolab.com/?user=jotika-meaw&theme=radical&hide_border=true" /></a> | <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=jotika-meaw&theme=radical&no-frame=true&row=1&column=4" /></a> |
-| ------------- | ------------- |
-
-<br/>
-
-<!--- FEATURED PROJECTS --->
-## 🔥 FEATURED PROJECTS
-
-### 1. [Voting System App](https://github.com/jotika-meaw/voting_system_app)
-> Secure Python-based desktop application for electronic voting & candidate management.
-
-### 2. [Web Portfolio](https://github.com/jotika-meaw/EBT-Portfolio)
-> Responsive web portfolio featuring modern UI components, smooth navigation, and clean design.
-
-<br/>
-
-<!--- RANDOM QUOTE --->
-## 💬 RANDOM DEV QUOTE
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jotika-meaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-<!--- VISIT COUNT --->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jotika-meaw&label=Profile%20views&color=e11d48&style=flat" alt="jotika-meaw" /> </p>
+## 👨‍💻 About Me
+
+I'm **Jotika Das**, a **Web Developer** and Computer Science & Engineering student at the **University of Science & Technology Chittagong (USTC)**.
+
+- 🎓 Currently in my **6th semester** of Computer Science & Engineering
+- 📍 Based in **Jamal Khan, Chattogram, Bangladesh**
+- 💻 Interested in **Web Development, Machine Learning, Artificial Intelligence, and Data Science**
+- 🧠 Interested in **NLP, Computer Vision, Deep Learning, and intelligent applications**
+- 🚀 Building modern and responsive web applications
+- 📚 Currently focusing on **IELTS, Machine Learning models, and Web Development**
+- 🔬 Interested in **AI/ML research and practical software development**
+- 🌱 Continuously learning new technologies and improving my problem-solving skills
+
+---
+
+## 🔥 Current Activities & Focus
+
+- 💻 Developing **modern web applications**
+- 🤖 Learning and experimenting with **Machine Learning & Deep Learning models**
+- 🌐 Improving my **React, Next.js, JavaScript, and modern web development skills**
+- 📚 Preparing for **IELTS**
+- 🔬 Exploring **AI/ML research and intelligent applications**
+- 🧩 Practicing **Data Structures & Algorithms**
+
+---
+
+## 🛠️ Technology Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,html,css" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,cloudflare" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jotika-meaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jotika Das GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotika-meaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jotika-meaw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jotika-meaw/jotika-meaw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🗳️ Voting System App
+
+A Python-based desktop application designed for electronic voting and candidate management.
+
+**Technologies:** Python
+
+🔗 [View Repository](https://github.com/jotika-meaw/voting_system_app)
+
+---
+
+### 🛒 EBT E-Commerce
+
+An e-commerce web project focused on creating a structured and responsive online shopping experience.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)
+
+---
+
+### 🌐 Web Development Projects
+
+A collection of web development projects created while learning and practicing modern web development.
+
+**Technologies:** HTML, CSS, JavaScript, React, Tailwind CSS
+
+🔗 [View My Repositories](https://github.com/jotika-meaw?tab=repositories)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jotikadas">
+    <img src="https://img.shields.io/badge/LinkedIn-Jotika%20Das-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/jotika-meaw">
+    <img src="https://img.shields.io/badge/GitHub-jotika--meaw-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+
+  <a href="mailto:jotikadas57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jotikadas57%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 📍 Contact Information
+
+- 📍 **Location:** Jamal Khan, Chattogram, Bangladesh
+- 📧 **Email:** [jotikadas57@gmail.com](mailto:jotikadas57@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/jotikadas](https://www.linkedin.com/in/jotikadas)
+- 🐙 **GitHub:** [github.com/jotika-meaw](https://github.com/jotika-meaw)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 💬 Developer Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Let's build something meaningful with technology.</i>
+</p>
