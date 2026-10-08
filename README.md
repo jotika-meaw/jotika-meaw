@@ -91,11 +91,13 @@
 
 ### 1. 🗳️ Voting System App
 
-> Python-based desktop application for electronic voting and candidate management.
+> Streamlit web application to explore five voting systems (FPTP, Approval, Preferential, Condorcet and Borda) with interactive inputs and animated results.
 
-**Technology:** Python
+**Technology:** Python, Streamlit
 
 🔗 [View Repository](https://github.com/jotika-meaw/voting_system_app)
+
+**Live Demo:** [votingapp.streamlit.app](https://votingapp.streamlit.app)
 
 ---
 
@@ -116,6 +118,32 @@
 **Technologies:** HTML · CSS · JavaScript
 
 🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)
+
+**Live Demo:** [jotika-meaw.github.io/EBT-ECommerce](https://jotika-meaw.github.io/EBT-ECommerce/)
+
+---
+
+### 4. 🔗 FitLog - Workout Library
+
+> Dark-themed workout planning app: browse twelve lifts, build a capped daily plan and track the week's work.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS
+
+🔗 [View Repository](https://github.com/jotika-meaw/assignment_final_6)
+
+**Live Demo:** [jotika-meaw.github.io/assignment_final_6](https://jotika-meaw.github.io/assignment_final_6/)
+
+---
+
+### 5. 🔗 Dev Stack Builder
+
+> Explore development technologies and build your own custom tech stack, with duplicate prevention and toast feedback.
+
+**Technologies:** React, Vite, JavaScript, React-Toastify
+
+🔗 [View Repository](https://github.com/jotika-meaw/devstack-assignment)
+
+**Live Demo:** [devstack-assignment.vercel.app](https://devstack-assignment.vercel.app)
 
 <br/>
 
