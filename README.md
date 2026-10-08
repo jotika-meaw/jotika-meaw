@@ -95,9 +95,8 @@
 
 **Technology:** Python, Streamlit
 
-🔗 [View Repository](https://github.com/jotika-meaw/voting_system_app)
-
-**Live Demo:** [votingapp.streamlit.app](https://votingapp.streamlit.app)
+🔗 [View Repository](https://github.com/jotika-meaw/voting_system_app)  
+🌐 [Live Demo](https://votingapp.streamlit.app)
 
 ---
 
@@ -117,9 +116,8 @@
 
 **Technologies:** HTML · CSS · JavaScript
 
-🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)
-
-**Live Demo:** [jotika-meaw.github.io/EBT-ECommerce](https://jotika-meaw.github.io/EBT-ECommerce/)
+🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)  
+🌐 [Live Demo](https://jotika-meaw.github.io/EBT-ECommerce/)
 
 ---
 
@@ -129,9 +127,8 @@
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS
 
-🔗 [View Repository](https://github.com/jotika-meaw/assignment_final_6)
-
-**Live Demo:** [jotika-meaw.github.io/assignment_final_6](https://jotika-meaw.github.io/assignment_final_6/)
+🔗 [View Repository](https://github.com/jotika-meaw/assignment_final_6)  
+🌐 [Live Demo](https://jotika-meaw.github.io/assignment_final_6/)
 
 ---
 
@@ -141,9 +138,8 @@
 
 **Technologies:** React, Vite, JavaScript, React-Toastify
 
-🔗 [View Repository](https://github.com/jotika-meaw/devstack-assignment)
-
-**Live Demo:** [devstack-assignment.vercel.app](https://devstack-assignment.vercel.app)
+🔗 [View Repository](https://github.com/jotika-meaw/devstack-assignment)  
+🌐 [Live Demo](https://devstack-assignment.vercel.app)
 
 <br/>
 
