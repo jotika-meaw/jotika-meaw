@@ -104,28 +104,7 @@
 
 ---
 
-### 2. 🌐 Web Development Projects
-
-> A collection of web development projects created while learning and practicing modern web technologies.
-
-**Technologies:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-
-🔗 [View My Repositories](https://github.com/jotika-meaw?tab=repositories)
-
----
-
-### 3. 🛒 EBT E-Commerce
-
-> Responsive storefront front-end for "Pawzy", an online pet shop, with product showcases, services and an appointment form.
-
-**Technologies:** HTML, CSS, JavaScript
-
-🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)  
-🌐 [Live Demo](https://jotika-meaw.github.io/EBT-ECommerce/)
-
----
-
-### 4. 🏋️ FitLog — Workout Library
+### 2. 🏋️ FitLog — Workout Library
 
 > Dark-themed workout planning app: browse twelve lifts, build a capped daily plan and track the week's work.
 
@@ -136,7 +115,7 @@
 
 ---
 
-### 5. 🛠️ Dev Stack Builder
+### 3. 🛠️ Dev Stack Builder
 
 > Explore development technologies and build your own custom tech stack, with duplicate prevention and toast feedback.
 
@@ -144,6 +123,17 @@
 
 🔗 [View Repository](https://github.com/jotika-meaw/devstack-assignment)  
 🌐 [Live Demo](https://devstack-assignment.vercel.app)
+
+---
+
+### 4. 🛒 EBT E-Commerce
+
+> Responsive storefront front-end for "Pawzy", an online pet shop, with product showcases, services and an appointment form.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)  
+🌐 [Live Demo](https://jotika-meaw.github.io/EBT-ECommerce/)
 
 <br/>
 
