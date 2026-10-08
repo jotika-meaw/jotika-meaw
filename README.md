@@ -35,6 +35,7 @@
     <a href="https://www.linkedin.com/in/jotikadas" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
     <a href="https://github.com/jotika-meaw" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40" /></a>
     <a href="mailto:jotikadas57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-jotikadas57-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
+    <a href="https://jotika-meaw.github.io/EBT-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jotika--meaw.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" height="30" /></a>
   </p>
 </div>
 
