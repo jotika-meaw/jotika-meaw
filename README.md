@@ -144,7 +144,7 @@
 ---
 
 <!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jotika-meaw&label=Profile%20views&color=0e75b6&style=flat" alt="jotika-meaw" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=jotika-meaw.jotika-meaw" alt="Profile views" /> </p>
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
