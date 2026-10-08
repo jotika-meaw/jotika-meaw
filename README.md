@@ -16,16 +16,27 @@
 <br/>
 
 <!--- about --->
+
+## 👋 ABOUT ME
+
 - 👋 Hi, I’m **[@jotika-meaw](https://github.com/jotika-meaw)** — a **Web Developer** and CSE student from Chattogram, Bangladesh.
+- 📍 Based in **Chattogram, Bangladesh**.
 - 🎓 Currently in my **6th Semester of Computer Science & Engineering** at **University of Science & Technology Chittagong (USTC)**.
 - 🖥️ Currently working with **Python, JavaScript, TypeScript, React, Next.js and Tailwind CSS**.
 - 🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision and intelligent web applications**.
 - 🛠️ Currently learning **Machine Learning models, IELTS and advanced Web Development**.
 - 💬 Ask me about **Python, React, Next.js, ML basics and Web Development**.
 - 🌐 Explore My Work **[Repositories](https://github.com/jotika-meaw?tab=repositories)** and connect on **[LinkedIn](https://www.linkedin.com/in/jotikadas)**.
-- 📫 Feel free to reach me out at **[jotikadas57@gmail.com](mailto:jotikadas57@gmail.com)**.
+- 📫 Feel free to reach out to me at **[jotikadas57@gmail.com](mailto:jotikadas57@gmail.com)**.
 
 <br/>
+
+## 🎯 CURRENT ACTIVITIES & FOCUS
+
+- 🔭 Building web applications with **React, Next.js and Tailwind CSS**
+- 🌱 Learning **Machine Learning models** and advanced Web Development
+- 📚 **6th Semester CSE coursework** at USTC, plus IELTS preparation
+- 🚀 Deploying portfolio and academic projects (GitHub Pages, Vercel, Streamlit)
 
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
@@ -45,30 +56,23 @@
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,html,css)](https://github.com/jotika-meaw)
+[![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,html,css)](https://github.com/jotika-meaw)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui)](https://github.com/jotika-meaw)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/jotika-meaw)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express,redux)](https://github.com/jotika-meaw)
-
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma)](https://github.com/jotika-meaw)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs)](https://github.com/jotika-meaw)
 
 ### Machine Learning & AI:
-[![Machine Learning & AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://github.com/jotika-meaw)
+🌱 Currently learning ML models — Scikit-learn · XGBoost · Hugging Face Transformers · SHAP
 
-**Libraries & Tools:** Scikit-learn · XGBoost · Hugging Face Transformers · SHAP
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github)](https://github.com/jotika-meaw)
-
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/jotika-meaw)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,github)](https://github.com/jotika-meaw)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://github.com/jotika-meaw)
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/jotika-meaw)
 
 <br/>
 
