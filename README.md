@@ -43,10 +43,10 @@
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/jotikadas" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
-    <a href="https://github.com/jotika-meaw" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40" /></a>
-    <a href="mailto:jotikadas57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-jotikadas57-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
-    <a href="https://jotika-meaw.github.io/EBT-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jotika--meaw.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" height="30" /></a>
+    <a href="https://www.linkedin.com/in/jotikadas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/jotika-meaw" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:jotikadas57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://jotika-meaw.github.io/EBT-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
 
@@ -67,7 +67,6 @@
 ### Machine Learning & AI:
 🌱 Currently learning ML models — Scikit-learn · XGBoost · Hugging Face Transformers · SHAP
 
-
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,github)](https://github.com/jotika-meaw)
 
@@ -87,7 +86,7 @@
 | ------------- | ------------- |
 
 ### Streak & Activity:
-| <a><img align="center" src="https://streak-stats.demolab.com?user=jotika-meaw&theme=tokyonight&hide_border=true" /></a> | <a><img align="center" src="https://github-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jotika-meaw&theme=tokyonight&hide_border=true" /></a> | <a><img align="center" src="https://github-activity-graph.vercel.app/graph?username=jotika-meaw&theme=tokyo-night&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -98,7 +97,7 @@
 
 > Streamlit web application to explore five voting systems (FPTP, Approval, Preferential, Condorcet and Borda) with interactive inputs and animated results.
 
-**Technology:** Python, Streamlit
+**Technologies:** Python, Streamlit
 
 🔗 [View Repository](https://github.com/jotika-meaw/voting_system_app)  
 🌐 [Live Demo](https://votingapp.streamlit.app)
@@ -109,7 +108,7 @@
 
 > A collection of web development projects created while learning and practicing modern web technologies.
 
-**Technologies:** HTML · CSS · JavaScript · React · Next.js · Tailwind CSS
+**Technologies:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
 
 🔗 [View My Repositories](https://github.com/jotika-meaw?tab=repositories)
 
@@ -117,16 +116,16 @@
 
 ### 3. 🛒 EBT E-Commerce
 
-> E-commerce web project focused on creating a structured and responsive online shopping experience.
+> Responsive storefront front-end for "Pawzy", an online pet shop, with product showcases, services and an appointment form.
 
-**Technologies:** HTML · CSS · JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
 🔗 [View Repository](https://github.com/jotika-meaw/EBT-ECommerce)  
 🌐 [Live Demo](https://jotika-meaw.github.io/EBT-ECommerce/)
 
 ---
 
-### 4. 🔗 FitLog - Workout Library
+### 4. 🏋️ FitLog — Workout Library
 
 > Dark-themed workout planning app: browse twelve lifts, build a capped daily plan and track the week's work.
 
@@ -137,7 +136,7 @@
 
 ---
 
-### 5. 🔗 Dev Stack Builder
+### 5. 🛠️ Dev Stack Builder
 
 > Explore development technologies and build your own custom tech stack, with duplicate prevention and toast feedback.
 
