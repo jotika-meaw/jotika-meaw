@@ -111,7 +111,7 @@
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS
 
 🔗 [View Repository](https://github.com/jotika-meaw/assignment_final_6)  
-🌐 [Live Demo](https://jotika-meaw.github.io/assignment_final_6/)
+🌐 [Live Demo](https://fitlog-assignment-06-kappa.vercel.app/)
 
 ---
 
